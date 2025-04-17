@@ -1,3 +1,4 @@
+
 # Loan Calculator
 Inputs: loan amount, interest rate, time.
 
